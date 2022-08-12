@@ -1,3 +1,5 @@
+# 忽略檔案
 app.txt
 ttt.txt
-/clonePractice/
+# 忽略資料夾
+/clonePractice/ 
