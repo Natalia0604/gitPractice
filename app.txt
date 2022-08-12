@@ -4,3 +4,4 @@ aaa
 77777
 remote
 add mybranch
+conflict master merge
