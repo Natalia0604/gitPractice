@@ -2,4 +2,4 @@
 aaa
 56789
 77777
-local
+remote
